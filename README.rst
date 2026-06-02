@@ -1,6 +1,7 @@
 .. image:: https://raw.githubusercontent.com/pycqa/bandit/main/logo/logotype-sm.png
     :alt: Bandit
 
+hello detailed PR comment 
 ======
 
 .. image:: https://github.com/PyCQA/bandit/actions/workflows/pythonpackage.yml/badge.svg?branch=main
